@@ -5,7 +5,7 @@ body {
     line-height: 1.5;
     color: #e8e6e3;
     font-family: 'Antic Slab', serif;
-    background-color: #420052;
+    background-color: #420064;
 }
 
 article,
@@ -106,7 +106,7 @@ sup {
 }
 
 #particles-js {
-    background: #570075;
+    background: #420064;
     display: flex;
     vertical-align: bottom;
     min-height: 100vh;
