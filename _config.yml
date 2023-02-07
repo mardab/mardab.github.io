@@ -1,9 +1,0 @@
-title: Marcin Dąbrowski
-description: Marcin Dąbrowski
-url: "https://mardab.github.io"
-username: Marcin Dąbrowski
-user_description: I'm a mostly self-taught programmer, eager to explore and experiment with technology. For more than past decade, I have been jumping between languages and technologies, honing skills needed for efficient problem solving.
-user_title: Half-Stack Software Engineer
-email: mardab@zoho.eu
-github_username: mardab
-exclude: ['package.json', 'src' , 'node_modules']
