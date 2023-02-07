@@ -1,0 +1,180 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Marcin Dąbrowski",
+        "label": "Software Engineer with QA",
+        "image": "",
+        "email": "mardab@zoho.eu",
+        "phone": "(+48) 695128411",
+        "url": "https://mardab.github.io",
+        "summary": "",
+        "location": {
+            "city": "Kraków",
+            "region": "Poland"
+        },
+        "profiles": [{
+            "network": "Github/Gitlab",
+            "username": "mardab",
+            "url": "https:/github.com/mardab"
+        }]
+    },
+    "work": [{
+            "name": "Alten",
+            "location": "Kraków",
+            "position": "Validation Engineer",
+            "url": "https://www.alten.com/country/poland/",
+            "startDate": "2022-11-01",
+            "endDate": "2022-12-01",
+            "summary": "",
+            "highlights": [
+                "performing whitebox testing using Lauterbach/Trace32",
+                "validating code compliance to DO-178C",
+                "cleanup undermaintained and underdocumented production code"
+            ]
+        },
+        {
+            "name": "Kontakt.io",
+            "location": "Kraków",
+            "position": "QA Test Engineer",
+            "url": "https://kontakt.io/",
+            "startDate": "2022-03-01",
+            "endDate": "2022-06-01",
+            "summary": "",
+            "highlights": [
+                "quality assurance testing of products and services",
+                "developing python/bash scripts for QA needs",
+                "performing ground truth data collections",
+                "development of test cases, test suites, test plans and test strategies",
+                "creating and refining internal documentation",
+                "assuring optimal test coverage"
+            ]
+        },
+        {
+            "name": "Kontakt.io",
+            "location": "Kraków",
+            "position": "QA Intern",
+            "url": "https://kontakt.io/",
+            "startDate": "2021-12-13",
+            "endDate": "2022-03-01",
+            "summary": "",
+            "highlights": [
+                "quality assurance testing of products and services",
+                "assisting in test executions",
+                "performing ground truth data collections",
+                "developing python/bash scripts for QA needs"
+            ]
+        },
+        {
+            "name": "Kajware",
+            "location": "Kraków",
+            "position": "QA Tester",
+            "url": "https://kajware.pl/en/",
+            "startDate": "2018-06-01",
+            "endDate": "2018-08-01",
+            "summary": "",
+            "highlights": [
+                "testing prerelease versions of software products",
+                "verifying issues reported to support team",
+                "intendance over Jira issues management, flow and migration",
+                "preparing workstations for new members of software development team"
+            ]
+        }
+    ],
+    "education": [{
+        "institution": "Cracow University of Economics",
+        "url": "https://uek.krakow.pl/",
+        "area": "Applied Computer Science",
+        "studyType": "Bachelor",
+        "startDate": "2018-10-01",
+        "endDate": "2022-09-26",
+        "score": "4.5"
+    }],
+    "skills": [{
+            "name": "Linux",
+            "level": "Intermediate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        },
+        {
+            "name": "Programming",
+            "level": "Intermediate",
+            "keywords": [
+                "Python",
+                "Rust",
+                "Bash"
+            ]
+        },
+        {
+            "name": "QA Testing",
+            "level": "Intermediate",
+            "keywords": [
+                "Lauterbach",
+                "J-Link",
+                "Postman"
+            ]
+        },
+        {
+            "name": "Software Engineering",
+            "level": "Intermediate",
+            "keywords": [
+                "Agile",
+                "CI-CD",
+                "Kanban"
+            ]
+        }
+    ],
+    "publications": [{
+        "name": "Modern methods of lossless data compression",
+        "publisher": "Cracow University of Economics",
+        "releaseDate": "2022-09-26",
+        "url": "https://uek.krakow.pl/",
+        "summary": "A study of state of lossless data compression, with focus on last 25 years of research and practice, backed by roughly-grained benchmark against modern compression challenges."
+    }],
+    "languages": [{
+            "language": "Polish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [{
+            "name": "Rust ecosystem"
+        },
+        {
+            "name": "embedded development"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "FPGA/chip design"
+        },
+        {
+            "name": "Linux development"
+        },
+        {
+            "name": "sound synthesis"
+        },
+        {
+            "name": "data compression"
+        },
+        {
+            "name": ""
+        },
+
+    ],
+    "references": [{
+        "name": "Available upon request",
+        "reference": ""
+    }],
+    "meta": {
+        "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+        "version": "v1.0.0",
+        "lastModified": "2017-12-24T15:53:00"
+    }
+}
