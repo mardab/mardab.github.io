@@ -15,7 +15,7 @@
         "profiles": [{
             "network": "Github/Gitlab",
             "username": "mardab",
-            "url": "https:/github.com/mardab"
+            "url": "https://github.com/mardab"
         }]
     },
     "work": [{
@@ -93,9 +93,9 @@
             "name": "Linux",
             "level": "Intermediate",
             "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript"
+                "Debian",
+                "Docker",
+                "Git"
             ]
         },
         {
@@ -122,7 +122,7 @@
             "keywords": [
                 "Agile",
                 "CI-CD",
-                "Kanban"
+                "Jira"
             ]
         }
     ],
@@ -165,7 +165,7 @@
         },
         {
             "name": ""
-        },
+        }
 
     ],
     "references": [{
